@@ -1,14 +1,14 @@
 ## Hi there 👋
 I’m Pooja Sudarsanam, a Health Informatics Analyst with ~5 years of experience bridging **clinical care, digital health, and healthcare data analytics**. My work combines **clinical domain expertise** with **data science and AI** to support decision-making, reduce care gaps, and improve patient outcomes.  
 
-- 💻 Current role: **Quality Improvement Data Analyst** at South Boston Community Health Center, analyzing EHR/claims data for 19K+ patients, mapping variables to **LOINC, CPT, and HEDIS standards**, and piloting **GPT-based NLP tools** to streamline provider workflows.
+- 🤖 Current role: **Quality Improvement Data Analyst** at South Boston Community Health Center, analyzing EHR/claims data for 19K+ patients, mapping variables to **LOINC, CPT, and HEDIS standards**, and piloting **GPT-based NLP tools** to streamline provider workflows.
 - 🩺 Previously: **Clinical Informatics Specialist** at SP Dental Care, where I **annotated chart notes**, standardized documentation workflows, and co-led development of a **dental EHR aligned to SNOMED CT and ICD-10**. 
 - 💡 Research: Published work on **AI-generated dental implant planning**, achieving a 67% reduction in planning time (DOI: 10.4103/jpbs.jpbs_1121_23) .  
 - 🛠️ Skills: **AI in Healthcare, Machine Learning, Advanced SQL, Python, EPIC EHR, Population Helath Analysis,Predective Modeling**.
 - ⚡ Fun fact: I used to fix smiles as a dentist, now I fix messy data tables (at least datasets don’t bite back). 
 - 🌐 Connect with me: [LinkedIn](http://www.linkedin.com/in/dr-pooja) | [Email](mailto:poojasudars@gmail.com)  
 
-⚡ Passionate about transforming **healthcare data into meaningful insights** and building AI products that enhance care delivery and reduce provider burden.  
+♥️ Passionate about transforming **healthcare data into meaningful insights** and building AI products that enhance care delivery and reduce provider burden.  
 <!--
 **Pooja-Sudarsanam/Pooja-Sudarsanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
