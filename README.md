@@ -6,7 +6,7 @@ I’m Pooja, a Health Informatics Analyst with ~5 years of experience in **clini
 - 💡 Research: Published work on **AI-generated dental implant planning**, achieving a 67% reduction in planning time (DOI: 10.4103/jpbs.jpbs_1121_23) .  
 - 🛠️ Skills: **AI in Healthcare, Machine Learning, Advanced SQL, Python, EPIC EHR, Population Helath Analysis,Predective Modeling**.
 - ⚡ Fun fact: I used to fix smiles as a dentist, now I fix messy data tables (at least datasets don’t bite back). 
-- 🌐 Connect with me: [LinkedIn](http://www.linkedin.com/in/dr-pooja) | [Email](mailto:poojasudars@gmail.com)  
+- 🌐 Connect with me: [LinkedIn](http://www.linkedin.com/in/pooja-sudarsanam) | [Email](mailto:poojasudars@gmail.com)  
 
 ♥️ Passionate about transforming **healthcare data into meaningful insights** and building AI products that enhance care delivery and reduce provider burden.  
 <!--
